@@ -1,8 +1,9 @@
 
+
+\.classpath
+
 \.gradle/
 
 \.settings/
-
-*.launch
 
 build/

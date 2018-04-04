@@ -14,14 +14,11 @@ apply plugin: 'net.minecraftforge.gradle.forge'
 
 
 version = "2018.1.01"
-group = "com.scihi.wire" 
+group = "net.scihi.wire" 
 archivesBaseName = "wire"
 
-sourceCompatibility = targetCompatibility = '1.8' 
-compileJava 
-{
-    sourceCompatibility = targetCompatibility = '1.8'
-}
+sourceCompatibility = '1.8' 
+targetCompatibility = '1.8' 
 
 minecraft 
 {
